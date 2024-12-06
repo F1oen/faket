@@ -1,0 +1,1 @@
+This task involes creating a GitHub respository for managing the assessments throughout the course.The respository will be updated weekly with new tasks.
